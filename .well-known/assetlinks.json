@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.tandem.ai",
+    "sha256_cert_fingerprints": ["85:DC:2D:95:FD:57:55:30:F5:7F:08:98:45:CE:26:F1:76:D0:BD:D3:F1:FC:36:8D:55:2E:C7:59:ED:C8:FA:F0"]
+  }
+}]
